@@ -106,4 +106,4 @@ with tab3:
     else:
         st.info("Estoque vazio.")
 
-st.info("Sistema integrado com estilo do holerite e relógio de ponto. Persistência em JSON. Para relatórios avançados ou integração com vendas/folha, adicione mais features. Rode com: streamlit run gestor_estoque.py")
+st.info("Sistema integrado")
