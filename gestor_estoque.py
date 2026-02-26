@@ -105,5 +105,3 @@ with tab3:
         st.write(f"**Valor Total em Estoque:** R$ {total_valor:.2f}")
     else:
         st.info("Estoque vazio.")
-
-st.info("Sistema integrado")
